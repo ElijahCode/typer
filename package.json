@@ -1,0 +1,38 @@
+{
+  "name": "typer",
+  "version": "1.0.0",
+  "description": "Converted object which have stringifaed values in their properties in regular objects",
+  "main": "index.js",
+  "exports": "./index.js",
+  "types": "./index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ilya Starikov <ilyastarickov1996@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElijahCode/typer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ElijahCode/typer/issues"
+  },
+  "homepage": "https://github.com/ElijahCode/typer",
+  "keywords": [
+    "object",
+    "string",
+    "native",
+    "type",
+    "convert"
+  ]
+}
